@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+# исключаем виртуальное окружение
+.venv/
+venv/
+
+# исключаем папки и файлы PyCharm
+.idea/
+
+# кэш, временные файлы, конфигурации
+__pycashe__/
+*.pyc
+*.log
+*.sqlite3
